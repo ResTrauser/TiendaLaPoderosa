@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">TiendaLaPoderosa</string>
+    <string name="action_settings">Settings</string>
+
+	<string name="btn1">🏠   |&#10;INICIO</string>
+	<string name="btn2">📜   |&#10;HISTORIA</string>
+	<string name="btn3">❤   |&#10;MISIÓN &amp; VISIÓN</string>
+	<string name="btn4">📌   |&#10;SUCURSALES</string>
+	<string name="btn5">🔖   |&#10;CATEGORIAS</string>
+	<string name="btn6">⭐   |&#10;MARCAS</string>
+	<string name="btn7">📖   |&#10;RECETAS</string>
+	<!--Contenidos-->
+	<string name="inicio">
+		&#10;Bienvenida al público por parte del gerente general Michael Jora Morales.
+		&#10;Maecenas mollis nibh pharetra sapien tempus efficitur id porttitor magna. Praesent cursus feugiat lacinia. Vivamus ut velit molestie, tincidunt mauris in, facilisis libero. In congue lorem ante, sed fermentum lectus viverra ut. Vivamus a condimentum ante. Duis in nunc nunc. Proin elementum lobortis est quis faucibus. Suspendisse massa est, ultricies ac convallis vel, cursus vel neque. Donec id pellentesque purus.
+		&#10;Phasellus aliquam ultrices sem, vel tempus felis sollicitudin et. Etiam varius dapibus leo. Suspendisse justo libero, auctor vitae massa eget, vehicula consectetur leo. Suspendisse potenti. Nulla lacus metus, finibus ac viverra et, commodo non est. Quisque lobortis auctor egestas. Maecenas eu diam est. Maecenas leo nunc, commodo at lobortis luctus, dictum eleifend massa. Ut auctor tortor sit amet sollicitudin ornare. Nullam sodales sodales quam, sed luctus justo vestibulum blandit. Nullam vel dui id ex suscipit laoreet et porta elit. Pellentesque in lectus eu lacus consectetur sollicitudin.
+		&#10;Cras at iaculis est, ultrices gravida neque. In at nulla elit. Aliquam finibus mattis consectetur. Pellentesque vel sagittis eros, nec feugiat urna. Quisque sed mauris at sem maximus blandit. Aliquam erat volutpat. Praesent dignissim odio eu ipsum scelerisque sodales. Aenean vestibulum accumsan libero quis congue. Duis et leo scelerisque, fermentum nibh et, sollicitudin justo. Vestibulum molestie sodales fermentum. Vivamus at erat tortor.
+		&#10;Ut eu fringilla lectus. Proin vestibulum risus sed posuere aliquam. Maecenas mauris arcu, consequat quis vulputate at, vulputate nec ex. Maecenas pulvinar rhoncus magna. Sed sed pellentesque eros, eget scelerisque sapien. Curabitur leo urna, consectetur at nibh in, pharetra maximus arcu. Vivamus nec imperdiet mauris. In in bibendum sapien. Sed laoreet sed libero sit amet molestie. In finibus enim at quam pretium, sed porta enim efficitur. Integer sit amet velit maximus, posuere lorem sit amet, auctor felis. Aliquam imperdiet est lacus, vel aliquam lectus semper vitae. Praesent auctor eu risus ut scelerisque. Maecenas bibendum dictum ipsum, sit amet posuere dolor rutrum vel. Mauris rhoncus, ante egestas pulvinar volutpat, libero ex euismod arcu, ut commodo eros velit et massa. Nunc vestibulum eleifend blandit.
+		&#10;Donec tempus commodo erat, ac tristique tellus sodales id. Praesent ac mauris et odio facilisis auctor sit amet ut mi. Quisque quis efficitur nisl. Morbi sem dui, vestibulum sed elit nec, cursus hendrerit mi. Aliquam cursus enim ipsum, et viverra sapien vulputate eget. Aliquam vulputate eu ligula cursus convallis. Cras imperdiet imperdiet odio, a luctus nisl viverra eget. Morbi eget euismod justo. Donec pellentesque nisi ex, et ultrices eros consectetur in. Aenean tincidunt at enim nec hendrerit. Nullam laoreet enim vitae nisl facilisis placerat.
+	</string>
+	<string name="mision">
+		&#10;Etiam egestas elit vitae sapien tincidunt dignissim. Nam lobortis justo lacus, sit amet pretium est pulvinar vitae. Donec efficitur quam laoreet est faucibus, ac placerat lectus viverra. Sed mollis sem ipsum, et consequat elit accumsan in. Aliquam felis est, varius id odio nec, faucibus egestas libero. Cras a bibendum erat. Sed tempor consequat hendrerit. Pellentesque hendrerit elit varius leo volutpat, rhoncus mattis quam molestie. Vestibulum vehicula dui nec mi posuere mattis. Sed dapibus, nulla eu rutrum varius, nunc nulla semper metus, vel pharetra mi elit sed arcu. Vestibulum scelerisque interdum nisl et pellentesque.
+		&#10;Nullam a feugiat ex. Nulla vehicula eros ut arcu molestie, ut faucibus ipsum luctus. Maecenas porttitor turpis quis ex fringilla, quis placerat lorem vehicula. Aliquam eu laoreet eros. Aenean volutpat aliquet tortor. Integer turpis dui, gravida at nisi et, lobortis blandit erat. Sed vel pharetra dolor. Pellentesque pretium sagittis varius. Phasellus hendrerit non orci eget consequat. Phasellus quis tempus risus. Ut at sem sagittis augue rhoncus egestas eget in nibh. Donec pulvinar ex quam, ut efficitur leo convallis vel. Vivamus sit amet placerat augue, a imperdiet tortor.
+		&#10;Donec sed accumsan orci, quis auctor quam. Ut sollicitudin tempus arcu, et sodales sem tempor in. Ut ultrices purus quis dolor pharetra, venenatis iaculis lectus convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut lacus ante, tempor vitae suscipit eget, sagittis eu libero. Integer commodo lobortis ex ut interdum. Sed mattis facilisis libero, eu viverra ex sagittis vel. Morbi non ullamcorper leo, sit amet ultrices nisl. Praesent mauris lorem, pharetra et ante condimentum, luctus porttitor sem. Nam at venenatis arcu, quis ornare ligula. Phasellus vestibulum nulla quis porttitor sollicitudin. Pellentesque euismod metus in ultricies finibus.
+		&#10;In ante velit, commodo sit amet quam in, pretium volutpat leo. Aliquam neque dolor, semper at est vitae, luctus iaculis velit. Donec viverra, orci in porttitor tincidunt, ipsum justo pretium elit, in lacinia augue mi nec nulla. Aliquam auctor, purus aliquet aliquam tempor, nibh sapien dictum mauris, quis pellentesque arcu lorem eget sapien. Donec eros dui, imperdiet in sem vel, blandit fringilla nunc. Phasellus at luctus leo. Proin eget ullamcorper neque. Praesent lectus erat, malesuada at dapibus vel, varius eu elit. Donec ullamcorper sit amet tellus nec placerat. Nam iaculis dignissim justo. Duis maximus eget diam nec dictum. Nulla blandit in ex id blandit. Vivamus dictum nulla a dolor iaculis interdum. Vestibulum vel blandit dui. Vestibulum ac lectus purus.
+		&#10;Morbi eu varius nibh. Quisque blandit quam mauris. Donec ornare sodales luctus. Morbi mollis eget tellus et placerat. Fusce ullamcorper lobortis laoreet. Cras lectus quam, pulvinar et mauris at, fringilla fringilla orci. Nunc at lobortis libero, a tristique tortor. Ut vehicula egestas maximus. Fusce sagittis blandit egestas. Ut interdum porttitor elit, ac porttitor mi placerat ut. Vivamus molestie erat ac fermentum ultricies. Nulla facilisi. Aenean condimentum vulputate turpis nec hendrerit. Pellentesque nec neque tincidunt, condimentum purus eu, hendrerit magna. Maecenas vel euismod leo.
+	</string>
+	<string name="historia">
+		&#10;Origen
+		&#10;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius, nisl id tempus tincidunt, est nibh vehicula elit, scelerisque varius sapien urna at eros. Quisque sapien lectus, egestas non pulvinar non, mollis at odio. Vivamus condimentum erat consectetur justo facilisis, condimentum varius nisi tincidunt. Aliquam suscipit dui augue, vehicula fringilla velit tincidunt vehicula. Mauris laoreet porttitor elit sed tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In ornare facilisis odio, pellentesque elementum lectus pulvinar sit amet.
+
+		&#10;1963-1973
+		&#10;Donec nec tristique ligula, placerat sodales nisi. Integer ac nibh quis arcu egestas lacinia vel eget sem. Nulla eu tortor id dui tempus posuere. Quisque nec erat cursus, accumsan sapien in, tincidunt tellus. Curabitur aliquet scelerisque laoreet. Vivamus a justo eleifend turpis fermentum consequat. Suspendisse vitae mi a enim hendrerit commodo. Ut eu mauris vestibulum, eleifend tortor a, dignissim nisl. Quisque mollis lectus nulla, vitae consectetur ante viverra in. Curabitur ullamcorper magna ipsum, quis porttitor purus posuere elementum.
+		&#10;Nam ut volutpat augue, et congue neque. Nam aliquet vel nisi ut lobortis. Cras varius porta metus nec semper. Vestibulum facilisis mattis lacus in imperdiet. Suspendisse vestibulum condimentum tellus sagittis luctus. Curabitur rhoncus velit nulla, eu volutpat ligula dictum vel. Sed sodales enim ligula. Suspendisse accumsan sapien ut est ullamcorper, vel luctus nunc aliquam. Etiam interdum felis quis fermentum posuere. Ut id augue massa. Praesent eleifend felis vel ipsum tempus elementum. Fusce varius id est eget ullamcorper.
+
+		&#10;1980-2000
+		&#10;Pellentesque at lectus purus. Mauris at aliquam augue, ut egestas urna. Phasellus cursus egestas quam, a viverra nunc pretium sit amet. Maecenas eros dui, eleifend vitae dui eget, lobortis vulputate ex. Nulla ultrices, dui sit amet vestibulum rhoncus, justo tellus auctor elit, a auctor libero est maximus felis. Vivamus mi velit, aliquam ac efficitur quis, rutrum non eros. Sed a mattis dolor.
+		&#10;Integer nisi neque, feugiat ut pharetra sit amet, commodo eu libero. Integer enim dolor, maximus ac ligula eu, malesuada facilisis risus. Nullam ac eleifend risus. Aliquam facilisis suscipit faucibus. Pellentesque tincidunt odio eget consectetur imperdiet. Ut eu viverra tortor. Maecenas rutrum tellus in augue vulputate iaculis. Nullam congue tempor ex, a rutrum elit euismod non. Aliquam
+
+		&#10;2000-2019
+		&#10;Ut eu fringilla lectus. Proin vestibulum risus sed posuere aliquam. Maecenas mauris arcu, consequat quis vulputate at, vulputate nec ex. Maecenas pulvinar rhoncus magna. Sed sed pellentesque eros, eget scelerisque sapien. Curabitur leo urna, consectetur at nibh in, pharetra maximus arcu. Vivamus nec imperdiet mauris. In in bibendum sapien. Sed laoreet sed libero sit amet molestie. In finibus enim at quam pretium, sed porta enim efficitur. Integer sit amet velit maximus, posuere lorem sit amet, auctor felis. Aliquam imperdiet est lacus, vel aliquam lectus semper vitae. Praesent auctor eu risus ut scelerisque. Maecenas bibendum dictum ipsum, sit amet posuere dolor rutrum vel. Mauris rhoncus, ante egestas pulvinar volutpat, libero ex euismod arcu, ut commodo eros velit et massa. Nunc vestibulum eleifend blandit.
+		&#10;Donec tempus commodo erat, ac tristique tellus sodales id. Praesent ac mauris et odio facilisis auctor sit amet ut mi. Quisque quis efficitur nisl. Morbi sem dui, vestibulum sed elit nec, cursus hendrerit mi. Aliquam cursus enim ipsum, et viverra sapien vulputate eget. Aliquam vulputate eu ligula cursus convallis. Cras imperdiet imperdiet odio, a luctus nisl viverra eget. Morbi eget euismod justo. Donec pellentesque nisi ex, et ultrices eros consectetur in. Aenean tincidunt at enim nec hendrerit. Nullam laoreet enim vitae nisl facilisis placerat.
+	</string>
+	<string name="marcas">
+		1.	Exotic Liquids
+		2.	New Orleans Cajun Delights
+		3.	Grandma Kelly's Homestead
+		4.	Tokyo Traders
+		5.	Cooperativa de Quesos 'Las Cabras'
+		6.	Mayumi's
+		7.	Pavlova, Ltd.
+		8.	Specialty Biscuits, Ltd.
+		9.	PB Knäckebröd AB
+		10.	Refrescos Americanas LTDA
+		11.	Heli Süßwaren GmbH Co. KG
+		12.	Plutzer Lebensmittelgroßmärkte AG
+		13.	Leka Trading
+		14.	Bigfoot Breweries
+		15.	Ma Maison
+
+	</string>
+	<string name="categorias">
+		•	Bebidas
+		•	Condimentos
+		•	Frutas/Verduras
+		•	Carnes
+		•	Pescado/Marisco
+		•	Lácteos
+		•	Repostería
+		•	Granos/Cereales
+
+	</string>
+	<string name="sucursales">
+		&#10;Nuestras sucursales
+		&#10;Departamento	Dirección	Teléfono	Responsable
+		&#10;León	Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas sodales iaculis lorem, sed fermentum ante pretium quis.	2222-5667	LOPEZ ORTIZ ISABEL
+		&#10;Chinandega	Duis lorem metus, dapibus interdum iaculis id, feugiat id ipsum. Vestibulum ligula ante, accumsan a ipsum eget, scelerisque bibendum justo.	2222-5478	PEREZ BERNAL MANUELA
+		&#10;Ocotal	Proin et tellus dictum, blandit sem a, accumsan risus. Proin malesuada, enim vel volutpat rhoncus, dolor enim tincidunt risus, a luctus tortor nulla in augue. 	2222-0413	MORALES GARCIA JUAN JOSE
+		&#10;Estelí	Nullam placerat condimentum odio vel suscipit. Maecenas fermentum nisl quam. Nam ullamcorper elit nec sollicitudin tempus.	2222-4156	SOLA FLORES MONICA
+		&#10;Matagalpa	Suspendisse id volutpat odio, sed ornare massa. Etiam ac est ac sem congue bibendum ac non nunc. Donec ultricies consequat diam in vestibulum.	2222-0045	DOÑA MORALES MONICA
+		&#10;Jinotega	Morbi tortor erat, mollis eu efficitur et, cursus eget nulla.	2222-4108	MORALES MORENO CARMEN
+		&#10;Chontales	Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec gravida lacinia libero, ut ullamcorper ligula eleifend vita	2222-2200	LOPEZ CASADO MARIA JOSE
+	</string>
+	<string name="recetas"></string>
+</resources>
